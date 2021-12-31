@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/omjcr/AndroidStudioProjects/MyRecyclerView/app/src/main/res/drawable/ic_baseline_grass_24.xml" value="0.3452502553626149" />
         <entry key="..\:/Users/omjcr/AndroidStudioProjects/MyRecyclerView/app/src/main/res/layout/activity_main.xml" value="0.3145833333333333" />
         <entry key="..\:/Users/omjcr/AndroidStudioProjects/MyRecyclerView/app/src/main/res/layout/list_item.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/omjcr/AndroidStudioProjects/MyRecyclerView/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3452502553626149" />
+        <entry key="..\:/Users/omjcr/AndroidStudioProjects/MyRecyclerView/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19635416666666666" />
       </map>
     </option>
   </component>
